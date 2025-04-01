@@ -50,6 +50,7 @@ Este projeto utiliza a biblioteca **PyAutoGUI** para automatizar o processo de c
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
 * [CURSO DE PYAUTOGUI](https://github.com/VILHALVA/CURSO-DE-PYAUTOGUI)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE AUTOMACAO](https://github.com/VILHALVA/CURSO-DE-AUTOMACAO)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
